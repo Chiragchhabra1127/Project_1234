@@ -128,8 +128,6 @@ The free tier of the Gemini API has daily and per-minute request limits. If you 
 
 Chirag Chhabra
 
-Built and iteratively upgraded as part of an AI internship project — AI Study Buddy Pro.
-
 ---
 
 📄 License
